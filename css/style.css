@@ -1,0 +1,46 @@
+*{
+	background-color: black;	
+}
+p{
+	font-size: 11vw;
+	text-transform: uppercase;
+	font-family: 'Nosifer', cursive;
+	text-align: center;
+	padding: 50px;
+}
+#title1:hover {
+	color: white;
+	text-shadow: 0 0 30px blue;
+}
+#title2:hover {
+	color: white;
+	text-shadow: 0 0 30px red;
+}
+#title3:hover {
+	color: white;
+	text-shadow: 0 0 30px orange;
+}
+#title4:hover {
+	color: white;
+	text-shadow: 0 0 30px cyan;
+}
+#title5:hover {
+	color: white;
+	text-shadow: 0 0 30px lime;
+}
+#title6:hover {
+	color: white;
+	text-shadow: 0 0 30px yellow;
+}
+#title7:hover {
+	color: white;
+	text-shadow: 0 0 30px pink;
+}
+#title8:hover {
+	color: white;
+	text-shadow: 0 0 30px salmon;
+}
+#title9:hover {
+	color: white;
+	text-shadow: 0 0 30px beige;
+}
